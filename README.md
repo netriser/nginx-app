@@ -1,3 +1,3 @@
 # nginx-app
 My app nginx
-version 0.0.2
+version 0.0.1
